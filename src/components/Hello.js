@@ -146,7 +146,7 @@ export default function Hello() {
                 disableElevation
                 onClick={handleClick}
               >
-                Read more
+                About me
               </Button>
             </motion.div>
           </motion.div>
