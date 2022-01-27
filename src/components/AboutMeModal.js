@@ -46,7 +46,7 @@ const AboutMeModal = function ({ isOpen, handleClose }) {
             style={{ zIndex: "1" }}
           >
             <Typography paragraph variant="h6">
-              About me
+              My story
             </Typography>
             <Typography paragraph>
               <strong>
@@ -69,7 +69,7 @@ const AboutMeModal = function ({ isOpen, handleClose }) {
               I wrote on Medium.
             </Typography>
             <Typography paragraph>
-              In the Design & Technologie fields, I have 10 years of experience
+              In the Design & Technologie fields, I have 10+ years of experience
               working on projects for diverse brands such as{" "}
               <a
                 href="http://design.comcast.com/team/"
@@ -89,7 +89,7 @@ const AboutMeModal = function ({ isOpen, handleClose }) {
               >
                 Google Duo
               </a>
-              , in our{" "}
+              and Google Meet, in our{" "}
               <a
                 rel="noopener noreferrer"
                 target="_blank"
