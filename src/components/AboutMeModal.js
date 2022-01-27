@@ -89,7 +89,7 @@ const AboutMeModal = function ({ isOpen, handleClose }) {
               >
                 Google Duo
               </a>
-              and Google Meet, in our{" "}
+               and Google Meet, in our{" "}
               <a
                 rel="noopener noreferrer"
                 target="_blank"
