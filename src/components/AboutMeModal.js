@@ -83,13 +83,13 @@ const AboutMeModal = function ({ isOpen, handleClose }) {
             <Typography paragraph>
               Currently I work in{" "}
               <a
-                href="http://duo.google.com/about/"
+                href="https://apps.google.com/meet/"
                 rel="noopener noreferrer"
                 target="_blank"
               >
-                Google Duo
+                Google Meet
               </a>
-              andGoogle Meet, in our{" "}
+              , in our{" "}
               <a
                 rel="noopener noreferrer"
                 target="_blank"
