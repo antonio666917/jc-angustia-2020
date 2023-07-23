@@ -95,7 +95,7 @@ export default function Footer() {
           </motion.div>{" "}
           by Juan Angustia.
           <br className="hide-on-desktop" />
-          {"  "}Copyright 2020 - All rights reserved.
+          {"  "}Copyright 2023 - All rights reserved.
         </Typography>
       </div>
       <div className="logo">
