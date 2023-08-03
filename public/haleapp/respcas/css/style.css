@@ -1,0 +1,22 @@
+#carousel .item img {
+  display: block;
+  width: 100%;
+  height: auto;
+  cursor:grab;
+  cursor:-webkit-grab;
+}
+
+/* Styling Pagination*/
+.owl-theme .owl-controls .owl-page span{
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	background: none;
+  border:1px solid #000;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{
+  background:#888;
+  border:1px solid #888;
+}
