@@ -168,14 +168,6 @@ export default function Header() {
                 </li>
               </ul>
             </div>
- <link rel="alternate" hreflang="en" href="https://juanangustia.com">
-<link rel="alternate" hreflang="es" href="https://es.juanangustia.com">
-<script type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
-<script>
-    Weglot.initialize({
-        api_key: 'wg_17e60b1a984cb18b65d7c732954235a10'
-    });
-</script>  
             <div className="resume-tab">
               <Button variant="contained" color="primary" disableElevation>
                 <a
